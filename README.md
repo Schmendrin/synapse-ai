@@ -2,6 +2,8 @@
 
 An interactive one-page website about the real value, the risks and the future of artificial intelligence. Built as a university project on the usefulness of AI.
 
+**Live:** https://synapse-ai-plum-five.vercel.app
+
 ## Features
 
 - **Cinematic hero** with an animated headline and a particle network that reacts to your mouse (click to send a pulse)
